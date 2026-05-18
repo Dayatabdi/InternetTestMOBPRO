@@ -1,0 +1,11 @@
+[
+    {"nama": "Cool Cat", "namaLatin": "Kucing Keren", "imageId": "cat1"},
+    {"nama": "Annoying Cat", "namaLatin": "Kucing Bingung", "imageId": "cat2"},
+    {"nama": "Catless", "namaLatin": "Kucing Kasar", "imageId": "cat3"},
+    {"nama": "Moon Cat", "namaLatin": "Kucing Bulan", "imageId": "cat4"},
+    {"nama": "CAT", "namaLatin": "Kucing Iler", "imageId": "cat5"},
+    {"nama": "Glasses Cat", "namaLatin": "Kucing Kacamata", "imageId": "cat6"},
+    {"nama": "Sleeping Cat", "namaLatin": "Kucing Tidur", "imageId": "cat7"},
+    {"nama": "Dog", "namaLatin": "Anjing", "imageId": "dog"},
+   
+]
