@@ -1,10 +1,10 @@
 [
-    {"nama": "Cool Cat", "namaLatin": "Kucing Keren", "imageId": "cat1"},
-    {"nama": "Annoying Cat", "namaLatin": "Kucing Bingung", "imageId": "cat2"},
-    {"nama": "Catless", "namaLatin": "Kucing Kasar", "imageId": "cat3"},
-    {"nama": "Moon Cat", "namaLatin": "Kucing Bulan", "imageId": "cat4"},
-    {"nama": "CAT", "namaLatin": "Kucing Iler", "imageId": "cat5"},
-    {"nama": "Glasses Cat", "namaLatin": "Kucing Kacamata", "imageId": "cat6"},
-    {"nama": "Sleeping Cat", "namaLatin": "Kucing Tidur", "imageId": "cat7"},
-    {"nama": "Dog", "namaLatin": "Anjing", "imageId": "dog"}
+    {"nama": "Cool Cat", "deskripsi": "Kucing Keren", "imageId": "cat1"},
+    {"nama": "Annoying Cat", "deskripsi": "Kucing Bingung", "imageId": "cat2"},
+    {"nama": "Catless", "deskripsi": "Kucing Kasar", "imageId": "cat3"},
+    {"nama": "Moon Cat", "deskripsi": "Kucing Bulan", "imageId": "cat4"},
+    {"nama": "CAT", "deskripsi": "Kucing Iler", "imageId": "cat5"},
+    {"nama": "Glasses Cat", "deskripsi": "Kucing Kacamata", "imageId": "cat6"},
+    {"nama": "Sleeping Cat", "deskripsi": "Kucing Tidur", "imageId": "cat7"},
+    {"nama": "Dog", "deskripsi": "Anjing", "imageId": "dog"}
 ]
